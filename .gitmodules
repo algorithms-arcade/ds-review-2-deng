@@ -1,0 +1,3 @@
+[submodule "algorithms-arcade"]
+	path = algorithms-arcade
+	url = git@github.com:algorithms-arcade/algorithms-arcade.git

@@ -1,0 +1,9 @@
+[submodule "ds-review-1-chenyue"]
+	path = ds-review-1-chenyue
+	url = https://github.com/algorithms-arcade/ds-review-1-chenyue.git
+[submodule "ds-review-2-deng"]
+	path = ds-review-2-deng
+	url = https://github.com/algorithms-arcade/ds-review-2-deng.git
+[submodule "javascript-algorithms-and-data-structures"]
+	path = javascript-algorithms-and-data-structures
+	url = https://github.com/algorithms-arcade/javascript-algorithms-and-data-structures.git
